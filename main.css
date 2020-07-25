@@ -1,0 +1,8 @@
+.bg {
+    background: url('house.jpg');
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    min-height: 650px;
+}
